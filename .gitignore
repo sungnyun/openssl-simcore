@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+data/
+save/
+*.jpg
+*.ipynb
+*.pth
+*.json
+*.sh
+*.png
+.ipynb_checkpoints/
+downstream/segmentation/run/
+downstream/detection/mAP/input/
+downstream/detection/mAP/output/

@@ -1,0 +1,25 @@
+# image recognition
+ipdb==0.13.9
+numpy==1.22.3
+Pillow==9.2.0
+scikit-learn
+timm
+pycocotools
+# if there is error msg of ImportError: cannot import name '_registerMatType' from 'cv2.cv2'
+opencv-python-headless<4.3
+
+# segmentation
+tensorboardX
+tqdm
+
+# detection
+pandas
+albumentations
+
+# for from_ssl_official install
+lightning-bolts
+setuptools==59.5.0
+
+# Pytorch
+# torch==1.10.0+cu113 -f https://download.pytorch.org/whl/torch_stable.html
+# torchvision==0.11.0+cu113 -f https://download.pytorch.org/whl/torch_stable.html
