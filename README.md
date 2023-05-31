@@ -1,5 +1,5 @@
 # OpenSSL-SimCore (CVPR 2023)
-[arXiv](https://arxiv.org/abs/2303.11101) | [BibTeX](#bibtex)
+[arXiv](https://arxiv.org/abs/2303.11101) | [Video](https://www.youtube.com/watch?v=f_-dIVRo8Q8) | [BibTeX](#bibtex)
 
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 [**Coreset Sampling from Open-Set for Fine-Grained Self-Supervised Learning**](https://arxiv.org/abs/2303.11101)<br/>
 [Sungnyun Kim](https://github.com/sungnyun)\*,
-[Sangmin Bae](https://github.com/raymin0223)\*,
+[Sangmin Bae](https://www.raymin0223.com)\*,
 [Se-Young Yun](https://fbsqkd.github.io)<br/>
 \* equal contribution
 
