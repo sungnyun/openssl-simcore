@@ -450,6 +450,9 @@ def main():
 
         if (not args.no_sampling) and (epoch in args.sampling_epochs): # only for args.sampling_times > 1
             print('renew the sampled coreset..')
+            from util.sampling import random_sampling, simcore_sampling
+            SAMPLING = {'random': random_sampling, 'simcore': simcore_sampling}
+
             selected_indices = SAMPLING[args.sampling_method](model, args)
             train_loader = set_loader_with_indices(selected_indices, args)
 
