@@ -1,5 +1,9 @@
 # OpenSSL-SimCore (CVPR 2023)
-[arXiv](https://arxiv.org/abs/2303.11101) | [Video](https://www.youtube.com/watch?v=f_-dIVRo8Q8) | [BibTeX](#bibtex)
+
+<a href='https://arxiv.org/abs/2303.11101'><img src='https://img.shields.io/badge/Paper-arXiv:2303.11101-Green'></a>
+<a href='https://www.youtube.com/watch?v=f_-dIVRo8Q8'><img src='https://img.shields.io/badge/YouTube-Video-red'></a> 
+<a href=#bibtex><img src='https://img.shields.io/badge/Paper-BibTex-yellow'></a>
+<a href='https://huggingface.co/sungnyun/openssl-simcore'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SimCore%20Model-blue'></a>
 
 
 <p align="center">
@@ -15,6 +19,7 @@
 - **Open-set Self-Supervised Learning (OpenSSL) task**: an unlabeled open-set available during the pretraining phase on the fine-grained dataset.
 - **SimCore**: simple coreset selection algorithm to leverage a subset semantically similar to the target dataset.
 - SimCore significantly improves representation learning performance in various downstream tasks.
+- [update on 10.02.2023] Shared SimCore-pretrained models on [HuggingFace Models](https://huggingface.co/sungnyun/openssl-simcore).
 
 
 ## Requirements
